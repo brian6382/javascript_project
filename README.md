@@ -3,7 +3,7 @@
 [live demo](https://brian6382.github.io/javascript_project/)
 ## Description
 Dairy Business project.
-![Screenshot from 2021-05-02 14-43-49](https://user-images.githubusercontent.com/82508349/116811981-ed31d280-ab54-11eb-90b4-9a501bc715fd.png)
+![Screenshot from 2021-05-02 18-19-37](https://user-images.githubusercontent.com/82508349/116818236-047fb880-ab73-11eb-846a-6299f77c5a05.png)
 ## setup & installation
 - copy the url on arrow down
 - Clone on your computer
