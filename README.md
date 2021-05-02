@@ -5,7 +5,7 @@ Dairy Business project. that help to monitor dairy farm Dairy Business. in day t
 ![Screenshot from 2021-05-02 18-19-37](https://user-images.githubusercontent.com/82508349/116818236-047fb880-ab73-11eb-846a-6299f77c5a05.png)
 ## setup & installation
 - copy the url on arrow down.
-- Clone on your computer
+- Clone on your computer.
 - Go live or start your server
 ## contact & license information.
 You can forke the project
