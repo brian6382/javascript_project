@@ -8,12 +8,12 @@ Dairy Business project.
 - copy the url on arrow down
 - Clone on your computer
 - Go live or start your server
-## Known Bugs
+## contact & license information.
 You can forke the project
 ## Technologies Used
 HTML, CSS AND JAVASCRIPT.
-## Support and contact details
+## contact 
 briankulei98@gmail.com 
-### License
+# license information.
 Read our [lincences](./Lincense)
 Copyright (c) 2021 **MTI LINCENSE**
