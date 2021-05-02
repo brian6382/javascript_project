@@ -16,5 +16,5 @@ HTML, CSS AND JAVASCRIPT.
 ## contact 
 -072555466. email:briankulei98@gmail.com. 
 # license information.
-Read our [lincences](./Lincense)
+Read our [lincences](./Lincense).
 Copyright (c) 2021 **MTI LINCENSE**
