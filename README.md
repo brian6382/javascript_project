@@ -4,7 +4,7 @@
 ## Description
 Dairy Business project.
 ![Screenshot from 2021-05-02 14-43-49](https://user-images.githubusercontent.com/82508349/116811981-ed31d280-ab54-11eb-90b4-9a501bc715fd.png)
-## project setup instructions
+## setup & installation
 - copy the url on arrow down
 - Clone on your computer
 - Go live or start your server
