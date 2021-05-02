@@ -1,6 +1,6 @@
 # Created by Brian Kulei
 # Website Page
-[live demo](https://brian6382.github.io/Anitas_Kitchen_project/)
+[live demo](brian6382.github.io/javascript_project/)
 ## Description
 Dairy Business project.
 ![Screenshot from 2021-05-02 14-43-49](https://user-images.githubusercontent.com/82508349/116811981-ed31d280-ab54-11eb-90b4-9a501bc715fd.png)
