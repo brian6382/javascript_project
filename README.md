@@ -4,7 +4,7 @@
 [live demo](https://brian6382.github.io/Anitas_Kitchen_project/)
 ## Description
 It resturant website.
-![Screenshot from 2021-04-25 20-06-24](https://user-images.githubusercontent.com/82508349/116002297-cbd76080-a601-11eb-8a69-113540691483.png)
+![Screenshot from 2021-05-02 14-43-49](https://user-images.githubusercontent.com/82508349/116811981-ed31d280-ab54-11eb-90b4-9a501bc715fd.png)
 ## project setup instructions
 - copy the url on arrow down
 - Clone on your computer
