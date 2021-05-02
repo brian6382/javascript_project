@@ -6,7 +6,7 @@ Dairy Business project. that help to monitor dairy farm Dairy Business. in day t
 ## setup & installation
 - copy the url on arrow down.
 - Clone on your computer.
-- Go live or start your server
+- Go live or start your server.
 ## contact & license information.
 You can forke the project
 ## dependencies
