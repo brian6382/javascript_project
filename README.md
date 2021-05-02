@@ -1,20 +1,19 @@
 # Created by Brian Kulei
 # Website Page
-# It is and html website of Antitas kitchen
-[live demo](https://brian6382.github.io/Anitas_Kitchen_project/)
+[live demo](https://brian6382.github.io/javascript_project/)
 ## Description
-It resturant website.
-![Screenshot from 2021-04-25 20-06-24](https://user-images.githubusercontent.com/82508349/116002297-cbd76080-a601-11eb-8a69-113540691483.png)
-## project setup instructions
+Dairy Business project.
+![Screenshot from 2021-05-02 14-43-49](https://user-images.githubusercontent.com/82508349/116811981-ed31d280-ab54-11eb-90b4-9a501bc715fd.png)
+## setup & installation
 - copy the url on arrow down
 - Clone on your computer
 - Go live or start your server
-## Known Bugs
+## contact & license information.
 You can forke the project
 ## Technologies Used
 HTML, CSS AND JAVASCRIPT.
-## Support and contact details
-briankulei98@gmail.com 
-### License
+## contact 
+    072555466. email:briankulei98@gmail.com 
+# license information.
 Read our [lincences](./Lincense)
 Copyright (c) 2021 **MTI LINCENSE**
