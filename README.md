@@ -8,7 +8,7 @@ Dairy Business project. that help to monitor dairy farm Dairy Business. in day t
 - Clone on your computer.
 - Go live or start your server.
 ## contact & license information.
-You can forke the project
+You can forke the project.
 ## dependencies
 -Monitor milk production and sale,for Brookside Dairies.
 ## Technologies Used
