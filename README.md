@@ -9,6 +9,8 @@ Dairy Business project. that help to monitor dairy farm Dairy Business. in day t
 - Go live or start your server
 ## contact & license information.
 You can forke the project
+## dependencies
+-Monitor milk production and sale,for Brookside Dairies.
 ## Technologies Used
 HTML, CSS AND JAVASCRIPT.
 ## contact 
