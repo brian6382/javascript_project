@@ -21,6 +21,7 @@
 					<p></p>
 					<label class="form-group" id="name">
 						<input name="name" type="text" class="form-control"  required>
+<<<<<<< HEAD
 						<span>shade  A</span>
 						<span class="border"></span>
 					</label>
@@ -102,6 +103,14 @@
 					<label class="form-group" id="name">
 						<input name="name16" type="text" class="form-control"  required>
 						<span for="">DECEMBER INCOME</span>
+=======
+						<span>shade  Name</span>
+						<span class="border"></span>
+					</label>
+					<label class="form-group" id="email">
+						<input name="email" type="text" class="form-control"  required>
+						<span for="">liters produced</span>
+>>>>>>> 05562865ec5c116d59e3d1329120e8e4418977c1
 						<span class="border"></span>
 					</label>
 					<input type="submit" value="submit" name="submit" style="background-color: aqua;">
@@ -117,7 +126,11 @@
 			function getDataForm(e){
 				e.preventDefault();
 				let formData = new FormData(form[0]);
+<<<<<<< HEAD
 				alert( formData.get('name') + ' - '+ formData.get('name1') + ' - '+ formData.get('name2') + ' - '+ formData.get('name3') + ' - '+ formData.get('name4') + ' - '+ formData.get('name5') + ' - '+ formData.get('name6') + ' - '+ formData.get('name7') + ' - '+ formData.get('name8') + ' - '+ formData.get('name9') + ' - '+ formData.get('name10') + ' - '+ formData.get('name11')+ ' - '+ formData.get('name12') + ' - '+ formData.get('name13') + ' - '+ formData.get('name14') + ' - '+ formData.get('name15') + ' - '+  formData.get('name16')   );
+=======
+				alert( formData.get('name') + ' - '+ formData.get('email') );
+>>>>>>> 05562865ec5c116d59e3d1329120e8e4418977c1
 			}
 
 			document.addEventListener('DOMContentLoaded', function()
